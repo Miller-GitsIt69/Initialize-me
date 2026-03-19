@@ -5,7 +5,7 @@
 <h2>Description</h2>
 - In this repo, I am simply showing the step-by-step process of generating a Virtual Machine instance on the Google Cloud Platform (GCP) console. 
   
-   - FYI: A VM (Virtual Machine) instance is a software-based, emulated computer running on physical hardware, providing a fully isolated operating system environment. Instances are typically managed in the cloud to provide scalable computing, storage, and networking resources on-demand, often referred to as cloud instances or virtual servers. 
+   - FYI: A Virtual Machine (VM) instance is a software-based, emulated computer running on physical hardware, providing a fully isolated operating system environment. Instances are typically managed in the cloud to provide scalable computing, storage, and networking resources on-demand, often referred to as cloud instances or virtual servers. 
 <br />
 
 
