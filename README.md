@@ -1,6 +1,6 @@
 <h1>🖥Virtual Machine instance🖥</h1>
 
- ### [YouTube Demonstration] (Coming Soon!)
+ ### [YouTube Demonstration](https://www.youtube.com/watch?v=eJ8gwj6JV9g)
 
 <h2>Description</h2>
 - In this repo, I am simply showing the step-by-step process of generating a Virtual Machine instance on the Google Cloud Platform (GCP) console. 
