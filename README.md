@@ -66,7 +66,7 @@ Created a VM instance, performed health, metadata &amp; validity checks
 
 > Next, type in "curl -s localhost/metadata | jq ." to check instance metadata [Output = Shows instance data ]
 
-## Instance validation (HW deliverables):
+## Instance validation:
 > While the instance is running, open Gitbash/Terminal (Run as Administrator)
 
 > Navigate to an empty folder and create a new file named "gate_gcp_vm_http_ok.sh"
