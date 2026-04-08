@@ -53,7 +53,7 @@ Created a VM instance, performed health, metadata &amp; validity checks
 
 > Click "Create"
 
-> VM Homepage should generate 👈 Screenshot (Deliverable)
+> VM Homepage should generate 👈 Screenshot
 
 ## Instance Health and Metadata checks:
 > From the "VM Instances" screen, look for the "Connect" tab of the desired instance
@@ -83,9 +83,9 @@ Created a VM instance, performed health, metadata &amp; validity checks
 
 > "badge.txt" & "gate_result.json" files should generate within the directory/folder
 
->  Next, select the "gate_result.json" file 👈 Screenshot (Deliverable)
+>  Next, select the "gate_result.json" file 👈 Screenshot
 
-> Lastly, type in "cat badge.txt" [Output = "GREEN" ] 👈 Screenshot (Deliverable)
+> Lastly, type in "cat badge.txt" [Output = "GREEN" ] 👈 Screenshot
 
 
  ![](https://i.ytimg.com/vi/I1v0DZYcFeA/maxresdefault.jpg)
