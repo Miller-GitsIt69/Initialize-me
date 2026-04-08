@@ -24,8 +24,8 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Get started with GCP: <br/>
+<img src="https://multimedia-nivelics-prod.s3.amazonaws.com/multimediaStrapi/Google_Cloud_Platform_bf29932848.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
